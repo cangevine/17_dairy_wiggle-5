@@ -1,10 +1,12 @@
+// @BC: Well organized, neat classes all around. Great work, Max.
 public abstract class Employee {
-	
+
 	private double effectivenessMultiplier;
 	private int baseWeeklySalary;
 	private int totalPaymentToDate;
 	
 	public abstract void work();
+	// @BC: Only a stylistic recommendation -- 'title' sounds more like a field than a method
 	public abstract String title();
 	
 	public Employee(int salary) {

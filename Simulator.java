@@ -22,8 +22,9 @@ public class Simulator {
 			}
 		}
 	}
-	
+	// @BC: Wonderfully organized and clear code, Max. The comments are helpful too.
 	public void run() {
+		// @BC: A great touch!
 		String[] months = { "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December" };
 		
 		for (int m=0; m<6; m++) {

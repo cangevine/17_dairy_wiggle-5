@@ -1,5 +1,5 @@
 import java.util.Random;
-
+// @BC: Beautifully done, Max!
 public class Moover extends Employee {
 	
 	public Moover(int salary) {
